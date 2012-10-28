@@ -1,1 +1,1 @@
-See https://github.com/tacker/tedxrm201210bluebee
+See http://tacker.github.com/tedxrm201210bluebee/
